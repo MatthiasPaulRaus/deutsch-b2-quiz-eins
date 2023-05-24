@@ -88,9 +88,9 @@ const QuestionsList = [
     },{
         question:"Die Unterlagen für Ihre Bewerbung",
         answersList: [
-            {answer:"sind auf der website zu recherchieren.", isCorrect:false},
+            {answer:"sind auf der Website zu recherchieren.", isCorrect:false},
             {answer:"müssen sie online organisieren.", isCorrect:false},
-            {answer:"können auf unserer homepage gefunden werden.", isCorrect:true},
+            {answer:"können auf unserer Homepage gefunden werden.", isCorrect:true},
         ]
     },{
         question:"Bewerbende bei unserer Firma sollten",
@@ -128,7 +128,7 @@ const QuestionsList = [
             {answer:"hatte ich Sie missverstanden.", isCorrect:false},
         ]
     },{
-        question:"Es ist mir wirklich unangehehm,",
+        question:"Es ist mir wirklich unangenehm,",
         answersList: [
             {answer:"es Ihnen zu bescheiden, weil sie nicht grüßen.", isCorrect:false},
             {answer:"obwohl ich Sie nicht gegrüßt habe.", isCorrect:false},
@@ -177,7 +177,7 @@ const QuestionsList = [
         answersList: [
             {answer:"Am liebsten lese ich meinen Kindern Geschichten vor.", isCorrect:false},
             {answer:"Printmedien lese ich immer weniger.", isCorrect:false},
-            {answer:"Ich lese hauptsächlich online-Zeitungen und höre podcasts.", isCorrect:true},
+            {answer:"Ich lese hauptsächlich Online-Zeitungen und höre podcasts.", isCorrect:true},
         ]
     },{
         question:"Die Daten deuten darauf hin,",
@@ -189,7 +189,7 @@ const QuestionsList = [
     },{
         question:"Ich kann mir heutzutage gar nicht mehr vorstellen,",
         answersList: [
-            {answer:"dass ich ohne labtop gehe.", isCorrect:false},
+            {answer:"dass ich ohne Laptop gehe.", isCorrect:false},
             {answer:"ohne mein Handy aus dem Haus zu gehen.", isCorrect:true},
             {answer:"dass er noch ein Handy benutzt.", isCorrect:false},
         ]
