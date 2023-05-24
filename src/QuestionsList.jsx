@@ -177,7 +177,7 @@ const QuestionsList = [
         answersList: [
             {answer:"Am liebsten lese ich meinen Kindern Geschichten vor.", isCorrect:false},
             {answer:"Printmedien lese ich immer weniger.", isCorrect:false},
-            {answer:"Ich lese hauptsächlich Online-Zeitungen und höre podcasts.", isCorrect:true},
+            {answer:"Ich lese hauptsächlich Online-Zeitungen und höre Podcasts.", isCorrect:true},
         ]
     },{
         question:"Die Daten deuten darauf hin,",
