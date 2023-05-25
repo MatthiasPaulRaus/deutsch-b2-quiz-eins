@@ -86,9 +86,9 @@ const QuestionsList = [
             {answer:"durch Auszubildende durchgeführt.", isCorrect:false},
         ]
     },{
-        question:"Die Unterlagen für Ihre Bewerbung",
+        question:"Die Antworten auf Ihre Fragen",
         answersList: [
-            {answer:"sind auf der Website zu recherchieren.", isCorrect:false},
+            {answer:"sind auf der Website gefunden.", isCorrect:false},
             {answer:"müssen sie online organisieren.", isCorrect:false},
             {answer:"können auf unserer Homepage gefunden werden.", isCorrect:true},
         ]
@@ -130,7 +130,7 @@ const QuestionsList = [
     },{
         question:"Es ist mir wirklich unangenehm,",
         answersList: [
-            {answer:"es Ihnen zu bescheiden, weil sie nicht grüßen.", isCorrect:false},
+            {answer:"es Ihnen zu beklagen, weil sie nicht grüßen.", isCorrect:false},
             {answer:"obwohl ich Sie nicht gegrüßt habe.", isCorrect:false},
             {answer:"dass ich Ihnen nicht Bescheid gesagt habe.", isCorrect:true},
         ]
