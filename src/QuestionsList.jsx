@@ -161,8 +161,8 @@ const QuestionsList = [
     },{
         question:"Diese Sozialform ermöglicht es",
         answersList: [
-            {answer:"alle Mitarbeiter an der Entscheidung teilzunehmen", isCorrect:false},
-            {answer:"dass alle Mitarbeiter alle Entscheidungen treffen.", isCorrect:false},
+            {answer:"alle Mitarbeiter an der Entscheidung teilzunehmen.", isCorrect:false},
+            {answer:"dass alle Mitarbeiter teilnehmen zu können.", isCorrect:false},
             {answer:"alle Mitarbeiter teilnehmen zu lassen.", isCorrect:true},
         ]
     },{
